@@ -8,6 +8,11 @@ body {
     padding: 0;
 }
 
+.content-wrapper {
+    margin-left: 40px; /* Increase the left margin */
+    margin-right: auto; /* Optional: To balance the layout */
+}
+
 /* Header Styles */
 h1, h2, h3 {
     color: #333;
