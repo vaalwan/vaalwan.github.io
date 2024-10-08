@@ -2,7 +2,7 @@
   title: "Cross Product Learning with Product Label Data"
 authors:
   - name: "Vanessa A. Alwan"
-affiliation: "University of Chicago Booth School of Business"
+affiliation: "The University of Chicago Booth School of Business"
 date: "2024-10-01"
 type: "Work in Progress"
 draft: false
