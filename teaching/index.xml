@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching Experience | Vanessa Adamandia Alwan</title>
-    <link>https://vaalwan.github.io/teaching/</link>
-      <atom:link href="https://vaalwan.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:3016/teaching/</link>
+      <atom:link href="http://localhost:3016/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching Experience</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://vaalwan.github.io/media/icon_hu15918411191890977606.png</url>
+      <url>http://localhost:3016/media/icon_hu15918411191890977606.png</url>
       <title>Teaching Experience</title>
-      <link>https://vaalwan.github.io/teaching/</link>
+      <link>http://localhost:3016/teaching/</link>
     </image>
     
   </channel>
