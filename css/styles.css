@@ -9,7 +9,8 @@ body {
 }
 
 .content-wrapper {
-    margin-left: 40px; /* Increase the left margin */
+    display: block;
+    margin-left: 40px;  /* Increase the left margin */
     margin-right: auto; /* Optional: To balance the layout */
 }
 
