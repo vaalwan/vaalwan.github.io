@@ -2,69 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | Vanessa Adamandia Alwan</title>
-    <link>http://localhost:3511/teaching/</link>
-      <atom:link href="http://localhost:3511/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:7637/teaching/</link>
+      <atom:link href="http://localhost:7637/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:3511/media/icon_hu15918411191890977606.png</url>
+      <url>http://localhost:7637/media/icon_hu15918411191890977606.png</url>
       <title>Teaching</title>
-      <link>http://localhost:3511/teaching/</link>
+      <link>http://localhost:7637/teaching/</link>
     </image>
     
     <item>
-      <title>Pricing Strategies - MBA at The University of Chicago</title>
-      <link>http://localhost:3511/teaching/01_teaching/</link>
+      <title>BUSN 37802: Pricing Strategies (MBA/EMBA) - Summer 2022, Spring 2023, Summer 2023, Spring 2024</title>
+      <link>http://localhost:7637/teaching/01_teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3511/teaching/01_teaching/</guid>
+      <guid>http://localhost:7637/teaching/01_teaching/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data-Driven Marketing - MBA at The University of Chicago</title>
-      <link>http://localhost:3511/teaching/02_teaching/</link>
+      <title>BUSN 37103: Data-Driven Marketing (MBA/EMBA) - Summer 2023, Spring 2024</title>
+      <link>http://localhost:7637/teaching/02_teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3511/teaching/02_teaching/</guid>
+      <guid>http://localhost:7637/teaching/02_teaching/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Marketing Management - EMBA at The University of Chicago</title>
-      <link>http://localhost:3511/teaching/03_teaching/</link>
+      <title>BUSN 37800: Marketing Management (EMBA) - Spring 2023, Spring 2024</title>
+      <link>http://localhost:7637/teaching/03_teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3511/teaching/03_teaching/</guid>
+      <guid>http://localhost:7637/teaching/03_teaching/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pricing Strategies - EMBA at The University of Chicago</title>
-      <link>http://localhost:3511/teaching/04_teaching/</link>
+      <title>BUSN 37105: Data Science for Marketing Decision Making (MBA) - Autumn 2022</title>
+      <link>http://localhost:7637/teaching/06_teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3511/teaching/04_teaching/</guid>
+      <guid>http://localhost:7637/teaching/06_teaching/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data-Driven Marketing - EMBA at The University of Chicago</title>
-      <link>http://localhost:3511/teaching/05_teaching/</link>
+      <title>Marketing 552Q: Market Intelligence (MQM) - Fall 2019</title>
+      <link>http://localhost:7637/teaching/07_teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3511/teaching/05_teaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Science for Marketing Decision Making - EMBA at The University of Chicago</title>
-      <link>http://localhost:3511/teaching/06_teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3511/teaching/06_teaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Market Intelligence - at Duke University</title>
-      <link>http://localhost:3511/teaching/07_teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3511/teaching/07_teaching/</guid>
+      <guid>http://localhost:7637/teaching/07_teaching/</guid>
       <description></description>
     </item>
     
