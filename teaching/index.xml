@@ -1,16 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching Experience | Vanessa Adamandia Alwan</title>
-    <link>http://localhost:6505/teaching/</link>
-      <atom:link href="http://localhost:6505/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <description>Teaching Experience</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <title>Teaching | Vanessa Adamandia Alwan</title>
+    <link>http://localhost:3511/teaching/</link>
+      <atom:link href="http://localhost:3511/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:6505/media/icon_hu15918411191890977606.png</url>
-      <title>Teaching Experience</title>
-      <link>http://localhost:6505/teaching/</link>
+      <url>http://localhost:3511/media/icon_hu15918411191890977606.png</url>
+      <title>Teaching</title>
+      <link>http://localhost:3511/teaching/</link>
     </image>
+    
+    <item>
+      <title>Pricing Strategies - MBA at The University of Chicago</title>
+      <link>http://localhost:3511/teaching/01_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3511/teaching/01_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Marketing - MBA at The University of Chicago</title>
+      <link>http://localhost:3511/teaching/02_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3511/teaching/02_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing Management - EMBA at The University of Chicago</title>
+      <link>http://localhost:3511/teaching/03_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3511/teaching/03_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing Strategies - EMBA at The University of Chicago</title>
+      <link>http://localhost:3511/teaching/04_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3511/teaching/04_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Marketing - EMBA at The University of Chicago</title>
+      <link>http://localhost:3511/teaching/05_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3511/teaching/05_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science for Marketing Decision Making - EMBA at The University of Chicago</title>
+      <link>http://localhost:3511/teaching/06_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3511/teaching/06_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Intelligence - at Duke University</title>
+      <link>http://localhost:3511/teaching/07_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:3511/teaching/07_teaching/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
