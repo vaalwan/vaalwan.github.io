@@ -1,0 +1,43 @@
+/* styles.css */
+
+/* General Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Publication List Styles */
+.publications-list {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0;           /* Removes default padding */
+}
+
+/* Add space between publication items */
+.publication-item {
+    margin-bottom: 20px;  /* Adjust this value for more or less space */
+    padding: 10px 0;      /* Optional: adds vertical padding for a better look */
+    border-bottom: 1px solid #ddd; /* Optional: adds a bottom border for separation */
+    color: red;
+}
+
+/* Additional styling for links */
+.publication-link {
+    text-decoration: none; /* Removes underline from links */
+    color: #007BFF;       /* Link color */
+}
+
+.publication-link:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+.publication-date {
+    font-size: 0.9em;    /* Smaller font for dates */
+    color: #666;         /* Gray color for dates */
+}

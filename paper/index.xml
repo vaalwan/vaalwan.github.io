@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers | Vanessa Adamandia Alwan</title>
+    <link>http://localhost:6114/paper/</link>
+      <atom:link href="http://localhost:6114/paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Papers</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:6114/media/icon_hu7729264130191091259.png</url>
+      <title>Papers</title>
+      <link>http://localhost:6114/paper/</link>
+    </image>
+    
+    <item>
+      <title>The Impact of Dynamic Pricing on Consumer Behavior</title>
+      <link>http://localhost:6114/paper/work_in_progress_1/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:6114/paper/work_in_progress_1/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This working paper investigates the influence of dynamic pricing on consumer behavior, particularly in online retail environments. Through empirical analysis, we assess how varying price points affect purchasing decisions and consumer perceptions of value.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

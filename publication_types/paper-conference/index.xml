@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Vanessa Adamandia Alwan</title>
+    <link>https://vaalwan.github.io/publication_types/paper-conference/</link>
+      <atom:link href="https://vaalwan.github.io/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vaalwan.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Paper-Conference</title>
+      <link>https://vaalwan.github.io/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://vaalwan.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

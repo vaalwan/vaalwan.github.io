@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Vanessa Adamandia Alwan</title>
+    <link>https://vaalwan.github.io/teaching/</link>
+      <atom:link href="https://vaalwan.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://vaalwan.github.io/media/icon_hu15918411191890977606.png</url>
+      <title>Teaching</title>
+      <link>https://vaalwan.github.io/teaching/</link>
+    </image>
+    
+    <item>
+      <title>BUSN 32800: Business Analytics (MBA/EMBA) - Spring 2025</title>
+      <link>https://vaalwan.github.io/teaching/08_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/teaching/08_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BUSN 37802: Pricing Strategies (MBA/EMBA) - Summer 2022, Spring 2023, Summer 2023, Spring 2024</title>
+      <link>https://vaalwan.github.io/teaching/01_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/teaching/01_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BUSN 37103: Data-Driven Marketing (MBA/EMBA) - Summer 2023, Spring 2024</title>
+      <link>https://vaalwan.github.io/teaching/02_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/teaching/02_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BUSN 37800: Marketing Management (EMBA) - Spring 2023, Spring 2024</title>
+      <link>https://vaalwan.github.io/teaching/03_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/teaching/03_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BUSN 37105: Data Science for Marketing Decision Making (MBA) - Autumn 2022</title>
+      <link>https://vaalwan.github.io/teaching/06_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/teaching/06_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing 552Q: Market Intelligence (MQM) - Fall 2019</title>
+      <link>https://vaalwan.github.io/teaching/07_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/teaching/07_teaching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

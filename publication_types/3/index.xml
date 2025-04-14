@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Vanessa Adamandia Alwan</title>
+    <link>https://vaalwan.github.io/publication_types/3/</link>
+      <atom:link href="https://vaalwan.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vaalwan.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>3</title>
+      <link>https://vaalwan.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>The Identification of the Dynamic Discrete-Choice Model with Stockpiling</title>
+      <link>https://vaalwan.github.io/publication/conference-paper/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

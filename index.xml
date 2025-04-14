@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vanessa Adamandia Alwan</title>
+    <link>https://vaalwan.github.io/</link>
+      <atom:link href="https://vaalwan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vanessa Adamandia Alwan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vaalwan.github.io/media/icon_hu15918411191890977606.png</url>
+      <title>Vanessa Adamandia Alwan</title>
+      <link>https://vaalwan.github.io/</link>
+    </image>
+    
+    <item>
+      <title>The Identification of the Dynamic Discrete-Choice Model with Stockpiling - with Jean-Pierre Dubé and Xinyao Kong, **Revise and Resubmit at Marketing Science**</title>
+      <link>https://vaalwan.github.io/publications/working-paper-1/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/publications/working-paper-1/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We prove that the discount factor is set-identified for dynamic discrete-choice models of demand with stockpiling estimated using choice panels. Our key theorem generalizes the identification result in Abbring and Daljord (2020) to the case where the outside good cannot be normalized to zero, as in the case here where there is additional consumption from existing inventory. This result generates a test for consumer forward-looking behavior and the extent to which purchases during discount periods are incremental or diversion away from future periods. Out theorem nests the auxiliary restrictions in Ching and Osbourne (2020) and Akca and Otter (2015), which are testable and can point-identify the discount factor. Using Ching and Osbourne (2020)&amp;rsquo;s case study of laundry detergent, we fine a mean discount factor estimates of 0.92, rejecting myopic models of choice in favor of the dynamic model. In counterfactual simulations, we show that some of the promotional lift during a discount period is indeed due to forward-buying. However, we predict considerable more incremental sales compared to a standard discrete-choice model, which predicts that discounts mostly cause substitution between brands. These results contribut to the long-standing discussion regarding the effectiveness of price promotions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BUSN 32800: Business Analytics (MBA/EMBA) - Spring 2025</title>
+      <link>https://vaalwan.github.io/teaching/08_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/teaching/08_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BUSN 37802: Pricing Strategies (MBA/EMBA) - Summer 2022, Spring 2023, Summer 2023, Spring 2024</title>
+      <link>https://vaalwan.github.io/teaching/01_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/teaching/01_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Attributes, Cross Elasticities and Dynamic Market Structure in a Category with Many Products - with Wenxi Li and Pradeep K. Chintagunta</title>
+      <link>https://vaalwan.github.io/publications/working-paper-2/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/publications/working-paper-2/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We study the changes in market structure, and consumers&amp;rsquo; sensitivities to product attributes and marketing activities for a product category that experiences large changes in product variety. To allow for flexible cross-elasticities while confronting parameter explosion when product variety increases, we leverage a dataset with detailed product
+descriptions that contains information on intrinsic characteristics of the product to construct &amp;ldquo;distances&amp;rdquo; between products in attribute space. Cross elasticities are then specified as functions of these distances in a standard log-log demand model. Dynamics in model parameters are accounted for via a dynamic linear model (DLM) specification and the model is estimated using Bayesian methods. We provide an empirical
+illustration using data from the competitive yogurt product category. Product prices, attributes, prices and promotions are the major drivers of sales that we include in the model. Besides providing a dynamic description of a market, the proposed modeling framework will serve as an useful input to managers for forecasting the consequences of changing the attributes of products, as well as forecasting the sales of new products with a set of attributes spanned by those in the market.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BUSN 37103: Data-Driven Marketing (MBA/EMBA) - Summer 2023, Spring 2024</title>
+      <link>https://vaalwan.github.io/teaching/02_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/teaching/02_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BUSN 37800: Marketing Management (EMBA) - Spring 2023, Spring 2024</title>
+      <link>https://vaalwan.github.io/teaching/03_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/teaching/03_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BUSN 37105: Data Science for Marketing Decision Making (MBA) - Autumn 2022</title>
+      <link>https://vaalwan.github.io/teaching/06_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/teaching/06_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing 552Q: Market Intelligence (MQM) - Fall 2019</title>
+      <link>https://vaalwan.github.io/teaching/07_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/teaching/07_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross Product Learning with Product Label Data</title>
+      <link>https://vaalwan.github.io/publications/work-in-progress-1/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/publications/work-in-progress-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decomposing Price Variation During Inflationary Periods: An Application to Grocery Retail</title>
+      <link>https://vaalwan.github.io/publications/work-in-progress-3/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/publications/work-in-progress-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing with Differential Privacy - with Sanjog Misra</title>
+      <link>https://vaalwan.github.io/publications/work-in-progress-2/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/publications/work-in-progress-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing Science Conference</title>
+      <link>https://vaalwan.github.io/publications/conference-1/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/publications/conference-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing Dynamics Conference</title>
+      <link>https://vaalwan.github.io/publications/conference-2/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/publications/conference-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISMS Doctoral Consortium Fellow</title>
+      <link>https://vaalwan.github.io/publications/tutorial-1/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/publications/tutorial-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing Dynamics Conference</title>
+      <link>https://vaalwan.github.io/publications/conference-3/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/publications/conference-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NBER Economics of Privacy Tutorial</title>
+      <link>https://vaalwan.github.io/publications/tutorial-2/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://vaalwan.github.io/publications/tutorial-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
