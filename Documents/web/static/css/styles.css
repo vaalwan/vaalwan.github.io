@@ -1,0 +1,44 @@
+/* styles.css */
+
+/* General Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.content-wrapper {
+    display: block;
+    margin-left: 40px;  /* Increase the left margin */
+    margin-right: auto; /* Optional: To balance the layout */
+}
+
+/* Header Styles */
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Publication List Styles */
+.publications-list {
+    list-style-type: disc; /* Removes bullet points */
+    padding: 20px;           /* Removes default padding */
+}
+
+.publication-item {
+    margin-bottom: 15px;  /* Adds space between items */
+}
+
+.publication-link {
+    text-decoration: none; /* Removes underline from links */
+    color: #007BFF;       /* Link color */
+}
+
+.publication-link:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+.publication-date {
+    font-size: 0.9em;    /* Smaller font for dates */
+    color: #666;         /* Gray color for dates */
+}

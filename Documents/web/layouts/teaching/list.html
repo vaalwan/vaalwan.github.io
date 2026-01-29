@@ -1,0 +1,36 @@
+{{ define "main" }}  
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.css">  
+    <div class="publications-container">     
+             
+
+<h2 style="font-size: 1.3em; font-weight: bold; color: #333; margin-top: 10px; margin-bottom: 10px; margin-left: 20px">Teaching Assistant, The University of Chicago Booth School of Business:</h2>
+        {{ $c_teaching := where .Pages "Params.type" "Chicago Teaching" }}
+        {{ if $c_teaching }}         
+            <ul class="publications-list" style="margin-left: 20px;">         
+                {{ range sort $c_teaching "Params.weight" }}              
+                    <li class="publication-item" style="font-size: 13px;">      
+                        {{ .Title }}            
+                    </li>         
+                {{ end }}         
+            </ul>     
+        {{ else }}         
+            <p>No teaching available.</p>     
+        {{ end }}   
+        
+        
+        <h2 style="font-size: 1.3em; font-weight: bold; color: #333; margin-top: 10px; margin-bottom: 10px; margin-left: 20px">Teaching Assistant, Duke University, The Fuqua School of Business:</h2>
+         {{ $d_teaching := where .Pages "Params.type" "Duke Teaching" }}
+        {{ if $d_teaching }}         
+            <ul class="publications-list" style="margin-left: 20px;">         
+                {{ range sort $d_teaching "Params.weight" }}              
+                    <li class="publication-item" style="font-size: 13px;">      
+                        {{ .Title }}            
+                    </li>         
+                {{ end }}         
+            </ul>     
+        {{ else }}         
+            <p>No teaching available.</p>     
+        {{ end }}
+        
+    </div> 
+{{ end }}

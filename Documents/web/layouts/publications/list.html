@@ -1,0 +1,71 @@
+{{ define "main" }}
+
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.css">
+
+
+    <h2 style="font-size: 1.3em; font-weight: bold; color: #333; margin-top: 10px; margin-bottom: 1px; margin-left: 20px">Working Papers</h2>
+    {{ $workingPapers := where .Pages "Params.type" "Working Paper" }}
+    {{ if $workingPapers }}
+        <ul class="publications-list" style="margin-left: 40px;">
+        {{ range $workingPapers }}
+            <li class="publication-item" style="font-size: 13px;"> 
+            {{ .Title }} <!-- No bolding here -->
+            <br>{{ .Params.description }}
+        </li>
+        {{ end }}
+        </ul>
+    {{ else }}
+        <p>No working papers available.</p>
+    {{ end }}
+
+    <!-- Work in Progress Section (without links) -->
+    <h2 style="font-size: 1.3em; font-weight: bold; color: #333; margin-top: 10px; margin-bottom: 1px; margin-left: 20px">Work in Progress</h2>
+{{ $workInProgress := where .Pages "Params.type" "Work in Progress" }}
+{{ if $workInProgress }}
+    <ul class="publications-list" style="margin-left: 40px;">
+    {{ range $workInProgress }}
+        <li class="publication-item" style="font-size: 13px;"> 
+            {{ .Title }} <!-- No bolding here -->
+            <br>{{ .Params.description }}
+        </li>
+    {{ end }}
+    </ul>
+{{ else }}
+    <p>No work in progress available.</p>
+{{ end }}
+    
+     <!-- Conferences Section (without links) -->
+    <h2 style="font-size: 1.3em; font-weight: bold; color: #333; margin-top: 10px; margin-bottom: 1px; margin-left: 20px ">Conferences</h2>
+    {{ $conferences := where .Pages "Params.type" "Conference" }}
+    {{ if $conferences }}
+        <ul class="publications-list" style="margin-left: 40px;">
+        {{ range $conferences }}
+            <li class="publication-item" style="font-size: 13px;"> 
+                <strong>{{ .Title }}</strong>
+                <br>{{ .Params.conference }}<br>{{ .Params.location }} - {{ .Date.Format "January 2, 2006" }}
+            </li>
+        {{ end }}
+        </ul>
+    {{ else }}
+        <p>No conferences available.</p>
+    {{ end }}
+    
+    <!-- Tutorial Section (without links) -->
+    <h2 style="font-size: 1.3em; font-weight: bold; color: #333; margin-top: 10px; margin-bottom: 1px; margin-left: 20px">Research Tutorials</h2>
+    {{ $tutorials := where .Pages "Params.type" "Tutorial" }}
+    {{ if $tutorials }}
+        <ul class="publications-list" style="margin-left: 40px;">
+        {{ range $tutorials }}
+            <li class="publication-item" style="font-size: 13px;"> 
+                <strong>{{ .Title }}</strong>
+                <br>{{ .Params.location }} - {{ .Date.Format "January 2, 2006" }}
+            </li>
+        {{ end }}
+        </ul>
+    {{ else }}
+        <p>No tutorials available.</p>
+    {{ end }}
+
+    
+</div>
+{{ end }}
