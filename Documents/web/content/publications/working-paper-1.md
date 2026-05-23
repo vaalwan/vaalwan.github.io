@@ -1,13 +1,15 @@
 ---
-title: "The Identification of the Dynamic Discrete-Choice Model with Stockpiling - with Jean-Pierre Dubé and Xinyao Kong, **Revise and Resubmit at Marketing Science**"
+title: "Stockpiling and the Discount Function - with Jean-Pierre Dubé, Øystein Daljord, and Xinyao Kong, **Conditionally Accepted at Marketing Science**"
 authors:
   - name: "Vanessa A. Alwan"
     affiliation: "The University of Chicago Booth School of Business"
   - name: "Jean-Pierre Dubé"
     affiliation: "The University of Chicago Booth School of Business"
+  - name: "Øystein Daljord"
+    affiliation: "The University of Chicago Booth School of Business"
   - name: "Xinyao Kong"
     affiliation: "University of Texas Dallas Naveen Jindal School of Management"
-date: "2024-10-01"
+date: "2026-01-01"
 weight: 1
 type: "Working Paper"
 draft: false
